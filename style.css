@@ -104,12 +104,17 @@ body{
     display: flex;
     margin-top: 50px;
     margin-right: 150px;
+
+}
+.secton-4-img{
     padding-bottom: 100px;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 180px 179px;
     background-position: right;
     background-position-y: 200px;
+    background-position-x: 250px;
+    padding-right: 70px;
 }
 #section-4 img{
     margin-left: 40px;

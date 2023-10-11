@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
 body{
     font-family: 'Crimson Text', serif;
     font-family: 'Poppins', sans-serif;
@@ -127,8 +128,48 @@ body{
 }
 #section-5{
     display: flex;
+    margin-left: 200px;
+    padding-left: 30px;
+    padding-top: 30px;
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 130px 120px;
+    background-position-x: 5px;
+    background-position-y: 5px;
+}
+.section-five{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 60px 60px;
+    background-position-x: 3px;
+    background-position-y: 430px;
+}
+.secton-five-sec{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 60px 60px;
+    background-position-x: 230px;
+    background-position-y: 330px;
 }
 #section-5 img{
     height: 500px;
     width: 300px;
 }
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+footer h5{
+    text-align: center;
+    color: white;
+}
+.footer{
+    text-align: center;
+    font-family: 'Galada', cursive;
+}
+.footer span{
+    color: orange;
+
+}
+  
